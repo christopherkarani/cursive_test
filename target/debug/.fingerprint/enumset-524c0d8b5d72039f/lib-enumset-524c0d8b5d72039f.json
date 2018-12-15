@@ -1,0 +1,1 @@
+{"rustc":9185094762801764644,"features":"[]","target":16821383760795590756,"profile":11870183705523825133,"path":6354661710029572429,"deps":[["enumset_derive v0.2.0","enumset_derive",5813067539362084141],["num-traits v0.2.6","num_traits",10127697621813923178]],"local":[{"Precalculated":"0.3.14"}],"rustflags":[],"edition":"Edition2015"}

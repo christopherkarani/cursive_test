@@ -1,0 +1,10 @@
+/Users/apples/Desktop/tui/target/debug/deps/libparking_lot_core-eae7dbc1c411b7c0.rlib: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/thread_parker/unix.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/parking_lot.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/spinwait.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/util.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/word_lock.rs
+
+/Users/apples/Desktop/tui/target/debug/deps/parking_lot_core-eae7dbc1c411b7c0.d: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/thread_parker/unix.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/parking_lot.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/spinwait.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/util.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/word_lock.rs
+
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/lib.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/thread_parker/unix.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/parking_lot.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/spinwait.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/util.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/parking_lot_core-0.4.0/src/word_lock.rs:

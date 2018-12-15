@@ -1,0 +1,14 @@
+/Users/apples/Desktop/tui/target/debug/deps/libncurses-600a0826af5a8460.rlib: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/ll.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/constants.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/ll.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/wrapper.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/ll.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/wrapper.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/constants.rs
+
+/Users/apples/Desktop/tui/target/debug/deps/ncurses-600a0826af5a8460.d: /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/lib.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/ll.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/constants.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/ll.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/wrapper.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/mod.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/ll.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/wrapper.rs /Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/constants.rs
+
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/lib.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/ll.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/constants.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/ll.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/panel/wrapper.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/mod.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/ll.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/wrapper.rs:
+/Users/apples/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.97.0/src/menu/constants.rs:

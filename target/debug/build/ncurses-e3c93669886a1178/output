@@ -1,0 +1,15 @@
+cargo:rerun-if-env-changed=PKG_CONFIG_PATH
+cargo:rustc-link-lib=ncurses
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-apple-darwin")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+cargo:rustc-cfg=feature="mouse_v1"
