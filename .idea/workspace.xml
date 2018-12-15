@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df6069e5-8809-4c4c-8c35-114193205349" name="Default Changelist" comment="" />
+    <list default="true" id="df6069e5-8809-4c4c-8c35-114193205349" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/tui-bf6b5284f3c9e8cb/bin-tui-bf6b5284f3c9e8cb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/tui-bf6b5284f3c9e8cb/bin-tui-bf6b5284f3c9e8cb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/.fingerprint/tui-bf6b5284f3c9e8cb/bin-tui-bf6b5284f3c9e8cb.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/tui-bf6b5284f3c9e8cb/bin-tui-bf6b5284f3c9e8cb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/tui-bf6b5284f3c9e8cb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/tui-bf6b5284f3c9e8cb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/tui-bf6b5284f3c9e8cb.dSYM/Contents/Resources/DWARF/tui-bf6b5284f3c9e8cb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/tui-bf6b5284f3c9e8cb.dSYM/Contents/Resources/DWARF/tui-bf6b5284f3c9e8cb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1d7uw9rdnn1fqlhg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1erlohuczw15azf3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1j58k1df35ewz3ov.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1m09mp83xks86c5m.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1rfkqmxhk3qv9nbe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1ta4pzdgfz0hvbpg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1tq9y6mmf6ewokow.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/1vuq7282ed3ghxou.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/27843w6eykb70hvv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/2eegmfphh2sf37fa.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/2ermztqtsomlj6z7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/2fqr2847otw34mrt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/2hovrm174cdczjcl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/2uz85smflrd1nhwx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/2zb1na65vsvoxe7i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/305bd7sbdryltcil.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/3jd6qgxupj3ggp85.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/3vaj0iu07mjbn757.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/3wjdq36chvaph9ql.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/3wuk33uvnj4l49qm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/487r8gssgcu1tnqj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/4c4begy9etkm3f8y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/4gyikeits9fsaav2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/4ie8jedqtjfb0weg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/4wsq0kttxvcd4jjr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/4yc9xho5b6azmgub.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/51dmvp7hie3lnjvc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/51i0o3979wcts3ch.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/ark6k35njvrn7gg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/mk78j09lx4rpdx9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/psnhzpk505ynb00.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/tvtftkdpd1d0fdw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds-fztvvkepkjm2/wwiur6nwl6v26cw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/tui-1lxdmczxmnx2l/s-f7mb9pniug-pv0cds.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/tui" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/tui" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            <state relative-caret-position="122">
+              <caret line="25" column="71" lean-forward="true" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -86,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544895840355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544896872084" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -119,15 +164,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544890116972</updated>
-      <workItem from="1544890118616" duration="1579000" />
+      <workItem from="1544890118616" duration="3470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1579000" />
+    <option name="totallyTimeSpent" value="3470000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -147,7 +202,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
@@ -180,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        <state relative-caret-position="122">
+          <caret line="25" column="71" lean-forward="true" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
         </state>
       </provider>
     </entry>
